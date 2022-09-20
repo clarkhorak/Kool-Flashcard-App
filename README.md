@@ -5,11 +5,13 @@ CodePath
 ## Lab 2
 
 ### App Description
-`TODO://` Basic Flashcard application - Tap on the question to see the answer, tap on the answer to see the question.
+Basic Flashcard application - Tap on the question to see the answer, tap on the answer to see the question.
 
 ### App Walk-through
+
 https://imgur.com/a/xwj8VY7
-<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/xwj8VY7"  ><a href="//imgur.com/a/xwj8VY7">CodePath Flashcard App</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>" width=200><br>
+
+<img src="https://imgur.com/a/xwj8VY7" width=200><br>
 
 
 
