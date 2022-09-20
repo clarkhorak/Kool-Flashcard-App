@@ -8,8 +8,7 @@ CodePath
 Basic Flashcard application - Tap on the question to see the answer, tap on the answer to see the question.
 
 ### App Walk-through
-
-https://imgur.com/a/xwj8VY7
+https://imgur.com/X5lojGz
 
 <img src="https://imgur.com/a/xwj8VY7" width=200><br>
 
