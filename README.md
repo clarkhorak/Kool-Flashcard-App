@@ -10,7 +10,7 @@ CodePath
 ### App Walk-through
 `TODO://` https://imgur.com/a/xwj8VY7
 
-<img src="https://imgur.com/a/xwj8VY7"width=200><br>
+<img src= "https://imgur.com/a/xwj8VY7" width=200><br>
 
 
 
