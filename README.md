@@ -9,7 +9,7 @@ CodePath
 
 ### App Walk-through
 https://imgur.com/a/xwj8VY7
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://imgur.com/a/xwj8VY7" width=200><br>
 
 
 
