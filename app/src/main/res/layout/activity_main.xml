@@ -11,9 +11,17 @@
         android:id="@+id/flashcard_question"
         android:layout_width="match_parent"
         android:layout_height="200dp"
-        android:layout_centerInParent="true"
-        android:layout_centerHorizontal="false"
+        android:gravity="center"
         android:text="What programming language are we using?"
         android:textSize="40sp" />
 
+    <TextView
+        android:id="@+id/flashcard_answer"
+        android:layout_below="@id/flashcard_question"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:gravity="center"
+        android:text="Kotlin"
+        android:textSize="40sp"
+        android:visibility="invisible"/>
 </android.widget.RelativeLayout>
