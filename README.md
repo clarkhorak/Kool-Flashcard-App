@@ -10,8 +10,8 @@ CodePath
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README.
 
-<img src=["YOUR_GIF_URL_HERE"](https://imgur.com/a/xwj8VY7) width=200><br>
-https://imgur.com/a/xwj8VY7
+<img src="https://imgur.com/a/xwj8VY7" width=200><br>
+
 
 
 ## Required
