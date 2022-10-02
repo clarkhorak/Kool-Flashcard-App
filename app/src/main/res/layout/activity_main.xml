@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="200dp"
         android:gravity="center"
-        android:text="What programming language are we using?"
+        android:text="What is the derivative of cos(x)?"
         android:textSize="40sp" />
 
     <TextView
@@ -21,7 +21,16 @@
         android:layout_width="match_parent"
         android:layout_height="200dp"
         android:gravity="center"
-        android:text="Kotlin"
+        android:text="-sin(x)"
         android:textSize="40sp"
         android:visibility="invisible"/>
+
+    <ImageView
+        android:id="@+id/add_question_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/icon_add"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"/>
+
 </android.widget.RelativeLayout>
