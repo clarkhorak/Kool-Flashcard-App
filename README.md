@@ -9,7 +9,7 @@ Flashcard application - Tap on the question to see the answer, tap on the answer
 
 ### App Walk-though
 
-https://imgur.com/blNaCtm
+<blockquote class="imgur-embed-pub" lang="en" data-id="blNaCtm" data-context="false" ><a href="//imgur.com/blNaCtm"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 ## Required
