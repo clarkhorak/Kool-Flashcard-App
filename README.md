@@ -2,7 +2,7 @@
 CodePath
 ## Kool Flashcard App
 
-## Lab 2
+## Lab 2 (Week 4)
 
 ### App Description
 Flashcard application - Tap on the question to see the answer, tap on the answer to see the question. User has the option to create a new flashcard by changing the question and answer.
