@@ -8,6 +8,7 @@ CodePath
 Flashcard application - Tap on the question to see the answer, tap on the answer to see the question. User has the option to create a new flashcard by changing the question and answer.
 
 ### App Walk-though
+https://imgur.com/blNaCtm
 <img src="https://imgur.com/blNaCtm" width=200><br>
 
 
