@@ -8,8 +8,7 @@ CodePath
 Flashcard application - Tap on the question to see the answer, tap on the answer to see the question. User has the option to create a new flashcard by changing the question and answer.
 
 ### App Walk-though
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="blNaCtm" data-context="false" ><a href="//imgur.com/blNaCtm"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://imgur.com/blNaCtm" width=200><br>
 
 
 ## Required
