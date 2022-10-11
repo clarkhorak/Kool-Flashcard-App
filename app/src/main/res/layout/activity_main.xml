@@ -17,13 +17,13 @@
 
     <TextView
         android:id="@+id/flashcard_answer"
-        android:layout_below="@id/flashcard_question"
         android:layout_width="match_parent"
         android:layout_height="200dp"
+        android:layout_below="@id/flashcard_question"
         android:gravity="center"
         android:text="-sin(x)"
         android:textSize="40sp"
-        android:visibility="invisible"/>
+        android:visibility="invisible" />
 
     <ImageView
         android:id="@+id/add_question_button"
@@ -32,5 +32,17 @@
         android:src="@drawable/icon_add"
         android:layout_alignParentBottom="true"
         android:layout_alignParentEnd="true"/>
+
+    <ImageView
+        android:id="@+id/flashcard_next_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/add_question_button"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginBottom="226dp"
+        android:src="@drawable/icon_next" />
 
 </android.widget.RelativeLayout>
