@@ -8,7 +8,7 @@ CodePath
 Flashcard application - Tap on the question to see the answer, tap on the answer to see the question. User has the option to create a new flashcard by changing the question and answer. User can now create and store multiple flashcards. Arrow button added for browsing.
 
 ### App Walk-though
-<img src="https://imgur.com/Lg8ZpgW" width=200><br>
+https://imgur.com/Lg8ZpgW
 
 ## Required
 - [x] User can create a card and still see their created card when the app is relaunched.
