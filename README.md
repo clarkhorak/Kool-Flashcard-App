@@ -10,6 +10,8 @@ Flashcard application - Tap on the question to see the answer, tap on the answer
 ### App Walk-though
 https://imgur.com/Lg8ZpgW
 
+<img src="https://github.com/clarkhorak/Kool-Flashcard-App/commit/d613b97805d8904f232eb560f105035b9384f0b6#diff-2f5742cfd4fe57180bc32236de6df9a073e6a2522369d2dcc3b43ab3e3e3b7be" width=200><br>
+
 ## Required
 - [x] User can create a card and still see their created card when the app is relaunched.
 - [x] User can create muliple cards and browse through all created cards
