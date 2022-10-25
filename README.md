@@ -8,9 +8,10 @@ CodePath
 Flashcard application - Tap on the question to see the answer, tap on the answer to see the question. User has the option to create a new flashcard by changing the question and answer. User can now create and store multiple flashcards. Arrow button added for browsing. Application also contains animation for fluid UX.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/XNp1gW1" data-context="false" ><a href="//imgur.com/a/XNp1gW1"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>" width=200><br>
+<img src="YOUR_GIF_URL_HERE" width=200><br>
+
+<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="1TMCSxk" data-context="false" ><a href="//imgur.com/1TMCSxk"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>" width=200><br>
 
 
 ## Required
