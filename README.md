@@ -2,20 +2,27 @@
 CodePath
 ## Kool Flashcard App
 
-## Lab 3 (Week 5)
+## Lab 4 (Week 7)
 
 ### App Description
-Flashcard application - Tap on the question to see the answer, tap on the answer to see the question. User has the option to create a new flashcard by changing the question and answer. User can now create and store multiple flashcards. Arrow button added for browsing.
+Flashcard application - Tap on the question to see the answer, tap on the answer to see the question. User has the option to create a new flashcard by changing the question and answer. User can now create and store multiple flashcards. Arrow button added for browsing. Application also contains animation for fluid UX.
 
 ### App Walk-though
-https://imgur.com/Lg8ZpgW
+
+https://imgur.com/1TMCSxk
+
+<img src="https://imgur.com/1TMCSxk" width=200><br>
+
+
+
 
 ## Required
-- [x] User can create a card and still see their created card when the app is relaunched.
-- [x] User can create muliple cards and browse through all created cards
+- [x] User sees a transition animation when going from the main screen to the add card screen.
+- [x] User sees a reveal animation when the flashcard is tapped and the answer is shown
+- [x] User sees flashcards animating in / out when the 'next' button is tapped
 
 ## Optional
-- [ ] User can delete a card and no longer see it in their deck anymore
-- [ ] Flashcards are shown in random order instead of the order they were created in
-- [ ] User can edit a card and see the edit saved when they browse through their deck of cards
-- [ ] User can create flashcards with multiple answers and be able to browse through cards with multiple choice answers shown
+- [ ] Extra styling is added!
+- [ ] User sees a countdown timer for each question
+- [ ] User sees a 'card flip' animation when the card is tapped
+- [ ] User sees a celebration animation with confetti when they answer a question correctly
