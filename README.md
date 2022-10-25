@@ -9,9 +9,9 @@ Flashcard application - Tap on the question to see the answer, tap on the answer
 
 ### App Walk-though
 
-[<img src="YOUR_GIF_URL_HERE" width=200><br>](https://imgur.com/1TMCSxk)
+https://imgur.com/1TMCSxk
 
-<img src="[YOUR_GIF_URL_HERE](https://imgur.com/1TMCSxk)" width=200><br>
+<img src="https://imgur.com/1TMCSxk" width=200><br>
 
 
 
