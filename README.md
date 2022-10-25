@@ -11,7 +11,9 @@ Flashcard application - Tap on the question to see the answer, tap on the answer
 
 <img src="YOUR_GIF_URL_HERE" width=200><br>
 
-<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="1TMCSxk" data-context="false" ><a href="//imgur.com/1TMCSxk"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>" width=200><br>
+<img src="[YOUR_GIF_URL_HERE](https://imgur.com/1TMCSxk)" width=200><br>
+
+
 
 
 ## Required
